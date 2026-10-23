@@ -1,22 +1,27 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using TarijaReadApp.Interfaces;
+using TarijaReadApp.Models;
+using TarijaReadApp.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace TarijaReadApp.Controllers;
 
 [ApiController]
 [Route("api/Multas")]
-[Authorize]
+
 public class MultasApiController : ControllerBase
 {
     private readonly IMultaRepository _repository;
+    private readonly ApplicationDbContext _context;
 
-    public MultasApiController(IMultaRepository repository)
+    public MultasApiController(IMultaRepository repository,ApplicationDbContext context)
     {
         _repository = repository;
+        _context=context;
     }
 
-    [HttpGet]
+    [HttpGet("GetMultas")]
     public async Task<IActionResult> GetMultas()
     {
         var multas = await _repository.GetAllAsync();
@@ -38,5 +43,24 @@ public class MultasApiController : ControllerBase
         });
 
         return Ok(resultado);
+    }
+[HttpPost("CreateMulta")]
+    public async Task<IActionResult> CreateMulta([FromBody] Multa multa)
+    {
+        if (multa == null)
+        {
+            return BadRequest("La multa no puede ser nula.");
+        }
+         bool yaExiste = await _context.Multas.AnyAsync(m => m.PrestamoId == multa.PrestamoId);
+
+    if (yaExiste)
+    {
+        return Conflict(
+            "Este préstamo ya tiene una multa registrada.");
+    }
+   
+        await _repository.AddAsync(multa);
+        await _repository.SaveChangesAsync();
+        return Ok(multa);
     }
 }

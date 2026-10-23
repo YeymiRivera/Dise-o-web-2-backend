@@ -6,6 +6,7 @@ namespace TarijaReadApp.Models;
 
 public class Multa
 {
+    [Key]
     public int Id { get; set; }
 
     [Range(0, 99999)]

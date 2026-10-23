@@ -6,6 +6,7 @@ namespace TarijaReadApp.Models;
 
 public class Prestamo
 {
+    [Key]
     public int Id {get; set;}
 
     [Required]

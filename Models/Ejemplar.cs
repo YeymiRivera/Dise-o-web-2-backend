@@ -5,6 +5,7 @@ namespace TarijaReadApp.Models;
 
 public class Ejemplar
 {
+    [Key]
     public int Id {get; set;}
 
     [Required, StringLength(30)]

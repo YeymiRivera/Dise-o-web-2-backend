@@ -581,3 +581,4 @@ D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\refint\Tarija
 D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.pdb
 D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.genruntimeconfig.cache
 D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\ref\TarijaReadApp.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.sourcelink.json

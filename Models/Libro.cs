@@ -6,6 +6,7 @@ namespace TarijaReadApp.Models;
 
 public class Libro
 {
+    [Key]
     public int Id {get; set;}
 
     [Required, StringLength(150)]
