@@ -1,0 +1,12 @@
+@model TarijaReadApp.Models.Ejemplar
+
+@{ ViewData["Title"] = "Eliminar Ejemplar"; }
+
+<h1>¿Eliminar este ejemplar?</h1>
+<div><h4>@Model.Codigo</h4><p>@Model.Libro?.Titulo</p></div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,33 @@
+@model IEnumerable<TarijaReadApp.Models.Multa>
+
+@{ ViewData["Title"] = "Multas"; }
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="text-primary">Multas</h2>
+        <button>+ Nueva Multa</button>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped shadow-sm">
+            <thead class="table-dark">
+                <tr><th>Préstamo</th><th>Socio</th><th>Monto</th><th>Pagado</th><th></th></tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>#@item.Prestamo?.Id</td>
+                        <td>@item.Prestamo?.Socio?.Nombre</td>
+                        <td>Bs. @item.Monto</td>
+                        <td>@(item.PagoRealizado ? "Sí" : "No")</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">Editar</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

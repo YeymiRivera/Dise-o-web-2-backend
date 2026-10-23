@@ -1,0 +1,16 @@
+@model TarijaReadApp.Models.Prestamo
+
+@{ ViewData["Title"] = "Eliminar Préstamo"; }
+
+<div class="container mt-4">
+    <h2 class="text-danger">¿Eliminar este préstamo?</h2>
+    <div class="card p-4 shadow-sm">
+        <p><strong>Ejemplar:</strong> @Model.Ejemplar?.Codigo</p>
+        <p><strong>Socio:</strong> @Model.Socio?.Nombre</p>
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Eliminar</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>

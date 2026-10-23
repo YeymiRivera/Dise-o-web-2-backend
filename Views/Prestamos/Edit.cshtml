@@ -1,0 +1,55 @@
+@model TarijaReadApp.Models.Prestamo
+
+@{ ViewData["Title"] = "Editar Préstamo"; }
+
+<div class="container mt-4">
+    <h2 class="text-primary">Editar Préstamo</h2>
+
+    <form asp-action="Edit" method="post" class="card p-4 shadow-sm">
+        <input type="hidden" asp-for="Id" />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="EjemplarId" class="form-label">Ejemplar</label>
+                <select asp-for="EjemplarId" asp-items="ViewBag.EjemplarId" class="form-control"></select>
+                <span asp-validation-for="EjemplarId" class="text-danger"></span>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="SocioId" class="form-label">Socio</label>
+                <select asp-for="SocioId" asp-items="ViewBag.SocioId" class="form-control"></select>
+                <span asp-validation-for="SocioId" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label asp-for="UsuarioId" class="form-label">Registrado por</label>
+                <select asp-for="UsuarioId" asp-items="ViewBag.UsuarioId" class="form-control"></select>
+                <span asp-validation-for="UsuarioId" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="FechaSalida" class="form-label"></label>
+                <input asp-for="FechaSalida" class="form-control" type="date" />
+                <span asp-validation-for="FechaSalida" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="FechaLimite" class="form-label"></label>
+                <input asp-for="FechaLimite" class="form-control" type="date" />
+                <span asp-validation-for="FechaLimite" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="FechaDevolucion" class="form-label"></label>
+                <input asp-for="FechaDevolucion" class="form-control" type="date" />
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <a asp-action="Index" class="btn btn-secondary">Volver</a>
+            <button type="submit" class="btn btn-success">Guardar Cambios</button>
+        </div>
+    </form>
+</div>

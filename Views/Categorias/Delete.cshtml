@@ -1,0 +1,17 @@
+@model TarijaReadApp.Models.Categoria
+
+@{
+    ViewData["Title"] = "Eliminar Categoría";
+}
+
+<h1>¿Eliminar esta categoría?</h1>
+
+<div>
+    <h4>@Model.Nombre</h4>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,12 @@
+@* Views/Shared/_ModuloCard.cshtml *@
+@model TarijaReadApp.ViewModels.ModuloCardViewModel
+
+<div class="col-md-4 col-sm-6">
+    <div class="card shadow-sm h-100">
+        <div class="card-body text-center">
+            <h5 class="card-title">@Model.Titulo</h5>
+            <p class="card-text text-muted">@Model.Descripcion</p>
+            <a asp-controller="@Model.Controller" asp-action="Index" class="btn btn-primary w-100">Ir a @Model.Titulo</a>
+        </div>
+    </div>
+</div>

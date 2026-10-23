@@ -1,0 +1,12 @@
+@model TarijaReadApp.Models.Socio
+
+@{ ViewData["Title"] = "Eliminar Socio"; }
+
+<h1>¿Eliminar este socio?</h1>
+<div><h4>@Model.Nombre</h4><p>CI: @Model.CI</p></div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

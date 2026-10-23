@@ -1,0 +1,583 @@
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\appsettings.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\TarijaReadApp.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\TarijaReadApp.staticwebassets.endpoints.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\TarijaReadApp.exe
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\TarijaReadApp.deps.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\TarijaReadApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\TarijaReadApp.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\TarijaReadApp.pdb
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\scopedcss\bundle\TarijaReadApp.styles.css
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\scopedcss\projectbundle\TarijaReadApp.bundle.scp.css
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\vudtuj7x7j-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\o981md5lgr-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\xtqj67x7t2-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\amcszoqksm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\uxpz58dpgo-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\8d2jcpx2nk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\dpvnkayfdr-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\uio6pxitn7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\pgf32cvzv8-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\40y2r6fkoa-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\z8hzb7e09a-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\owvzhplddq-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\cdn0bkk6k8-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\urzqw4yfyb-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\0uqsonsy2p-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\efm1e881c0-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\4qzy7nqfae-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\7mizmfs3zp-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\rv4l4drsy9-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ns4vs4svci-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\544z1wmu6h-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\yjy17i87ol-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\tbaf40128c-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\5vyfh3k1eb-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\rwdb3pvgmh-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\k4kvpw2rxr-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\to1bo4nhad-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\5cj7t7evcm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\dv2vsia5hb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\xwmxhak07f-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\lw6jno1j5o-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\4o5kzpzsol-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\uyo4pc30nc-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\u5mqqc14ss-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\5b71cdjkv4-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\zteqs9j3ly-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\rvfwp9w439-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\bjayf76mrp-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\2yhrjuz1r0-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\87mgev6im6-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\o0efwg44ql-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\rp1rxqi1n8-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\s5k10s6vdm-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\gid0l6vteb-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\od39708wvs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\rxgbuusnot-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\niebgfus9j-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\gw1a2ldynf-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\mr2sqval2u-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\5yjd2o7h9f-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\2x0pbdtvbm-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\yobb0tit19-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\p4dz4v3qfr-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\3xzuwe4hof-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\m6sxp6n1lc-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ns8wcf2slz-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ma91zp8byf-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\mbt7b2bw3l-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\zn3edonewy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\4u2xq6myid-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\8ciga5rvy1-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\k7nelv8qfq-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\yhe7y6cywe-{0}-beg0ppk2h2-beg0ppk2h2.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\f200jqklse-{0}-beg0ppk2h2-beg0ppk2h2.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaRe.3F353AC3.Up2Date
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\refint\TarijaReadApp.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.pdb
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\ref\TarijaReadApp.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.sourcelink.json
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\TarijaReadApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-Black.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-Bold.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-Italic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-Light.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-Medium.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-Regular.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-Thin.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\LatoFont\OFL.txt
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ClosedXML.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ClosedXML.Parser.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\ExcelNumberFormat.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\QuestPDF.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\RBush.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\SixLabors.Fonts.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\System.IO.Packaging.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Usuario\Desktop\PrograWebgod\TarijaReadApp\bin\Debug\net10.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\appsettings.Development.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\appsettings.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\TarijaReadApp.staticwebassets.runtime.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\TarijaReadApp.staticwebassets.endpoints.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-Black.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-BlackItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-Bold.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-BoldItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-ExtraBold.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-ExtraLight.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-Italic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-Light.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-LightItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-Medium.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-MediumItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-Regular.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-SemiBold.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-Thin.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\Lato-ThinItalic.ttf
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\LatoFont\OFL.txt
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\TarijaReadApp.exe
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\TarijaReadApp.deps.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\TarijaReadApp.runtimeconfig.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\TarijaReadApp.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\TarijaReadApp.pdb
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ClosedXML.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ClosedXML.Parser.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ExcelNumberFormat.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Humanizer.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Npgsql.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\QuestPDF.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\RBush.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\SixLabors.Fonts.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\System.CodeDom.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\System.IO.Packaging.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\bin\Debug\net10.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.csproj.AssemblyReference.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.AssemblyInfoInputs.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.AssemblyInfo.cs
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.csproj.CoreCompileInputs.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.RazorAssemblyInfo.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.RazorAssemblyInfo.cs
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\scopedcss\bundle\TarijaReadApp.styles.css
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\scopedcss\projectbundle\TarijaReadApp.bundle.scp.css
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\vudtuj7x7j-{0}-lugek5hnai-lugek5hnai.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\o981md5lgr-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\xtqj67x7t2-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\amcszoqksm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\uxpz58dpgo-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\8d2jcpx2nk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\dpvnkayfdr-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\uio6pxitn7-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\pgf32cvzv8-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\40y2r6fkoa-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\z8hzb7e09a-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\owvzhplddq-{0}-ub07r2b239-ub07r2b239.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\cdn0bkk6k8-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\urzqw4yfyb-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\0uqsonsy2p-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\efm1e881c0-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\4qzy7nqfae-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\7mizmfs3zp-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\rv4l4drsy9-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ns4vs4svci-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\544z1wmu6h-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\yjy17i87ol-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\tbaf40128c-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\5vyfh3k1eb-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\rwdb3pvgmh-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\k4kvpw2rxr-{0}-06098lyss8-06098lyss8.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\to1bo4nhad-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\5cj7t7evcm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\dv2vsia5hb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\xwmxhak07f-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\lw6jno1j5o-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\4o5kzpzsol-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\uyo4pc30nc-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\u5mqqc14ss-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\5b71cdjkv4-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\zteqs9j3ly-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\rvfwp9w439-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\bjayf76mrp-{0}-493y06b0oq-493y06b0oq.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\2yhrjuz1r0-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\87mgev6im6-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\o0efwg44ql-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\rp1rxqi1n8-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\s5k10s6vdm-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\gid0l6vteb-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\od39708wvs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\rxgbuusnot-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\niebgfus9j-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\gw1a2ldynf-{0}-47otxtyo56-47otxtyo56.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\mr2sqval2u-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\5yjd2o7h9f-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\2x0pbdtvbm-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\yobb0tit19-{0}-qlccset4i1-qlccset4i1.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\p4dz4v3qfr-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\3xzuwe4hof-{0}-ag7o75518u-ag7o75518u.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\m6sxp6n1lc-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ns8wcf2slz-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\ma91zp8byf-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\mbt7b2bw3l-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\zn3edonewy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\4u2xq6myid-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\8ciga5rvy1-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\k7nelv8qfq-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\yhe7y6cywe-{0}-beg0ppk2h2-beg0ppk2h2.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\compressed\f200jqklse-{0}-beg0ppk2h2-beg0ppk2h2.gz
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\staticwebassets.build.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\staticwebassets.development.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\swae.build.ex.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaRe.3F353AC3.Up2Date
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\refint\TarijaReadApp.dll
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.pdb
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\TarijaReadApp.genruntimeconfig.cache
+D:\Universidad\Diseño Web II\TarijaReadApp-main\obj\Debug\net10.0\ref\TarijaReadApp.dll
