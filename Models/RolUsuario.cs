@@ -5,5 +5,6 @@ public enum RolUsuario
 {
     Administrador,
     Bibliotecario,
-    OperadorDeAtencion
+    OperadorDeAtencion,
+    Usuario
 }

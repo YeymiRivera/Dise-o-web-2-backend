@@ -11,7 +11,6 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser>
         : base(options)
     {
     }
-
     public DbSet<Categoria> Categorias { get; set; }
     public DbSet<Libro> Libros { get; set; }
     public DbSet<Ejemplar> Ejemplares { get; set; }
